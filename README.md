@@ -1,10 +1,12 @@
 # Power-Bi-project
 
 OBJECTIVE : 
+
  To contribute to the success of abusiness by utilizing data analysis techniques, specifically focusingon time series analysis, to provide
  valuable insights and accuratesales forecasting.
 
 DESCRIPTION :
+
 1 . DASHBOARD CREATION : Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to
 allow users to explore the data at various levels of granularity.
 
